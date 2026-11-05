@@ -1,6 +1,6 @@
 # NASDAQ-ITCH Market Microstructure Simulation: Hot Potato Effect
 
-This repository is part of an ongoing research effort by **Stealth Market Microstructure Group (SMMG Research)** focused on studying event-level dynamics in electronic limit order markets.
+This repository is part of an ongoing research effort by **XAD (Microstructure Automata Dynamics)** focused on studying event-level dynamics in electronic limit order markets.
 
 The project is experimental in nature and serves as a foundation for larger-scale research involving high-frequency market data, agent-based simulation, and market microstructure phenomena such as the *hot potato effect*.
 
@@ -141,5 +141,5 @@ No financial advice, trading recommendation, or investment guidance is provided 
 ---
 
 For collaboration or inquiries, please contact:  
-[spcmer@gmail.com](mailto:spcmer@gmail.com) or [p737917355@gmail.com](mailto:p737917355@gmail.com)
+[spcmer@gmail.com](mailto:spcmer@gmail.com) or [jat.pankaj.m@gmail.com](mailto:jat.pankaj.m@gmail.com)
 
